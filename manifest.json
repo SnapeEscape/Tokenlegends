@@ -1,0 +1,7 @@
+{
+  "id": "ttrpg-character-sheet",
+  "title": "TTRPG Character Sheet",
+  "description": "Character sheet extension for custom TTRPG system",
+  "version": "1.0.0",
+  "entry": "index.js"
+}
